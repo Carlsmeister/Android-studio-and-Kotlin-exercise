@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Thirty</string>
+    <string name="roll">ROLL</string>
+    <string name="re_roll">Re-Roll</string>
+    <string name="max_rolls_reached">0 rolls left</string>
+    <string name="play_again">Play Again</string>
+    <string name="next_round">Next Round</string>
+
+    <string-array name="score_options">
+        <item>Choose your score</item>
+        <item>Low</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+</resources>
